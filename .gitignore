@@ -3,3 +3,4 @@ node_modules
 
 #Untracked files
 Thumbs.db
+.test
